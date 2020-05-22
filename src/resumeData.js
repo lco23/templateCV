@@ -4,7 +4,7 @@ let resumeData = {
     "role": "Designer / Developer",
     "linkedinId":"https://www.linkedin.com/in/olivierbaveux/",
     //"skypeid": "Your skypeid",
-    "roleDescription": "Senior Industrial Designer, with a new orientation in web development",
+    "roleDescription": "Senior Industrial Designer, with a new professional direction in web and mobile development",
     //"blockchain" :"Blockchain enthusiaste",
     "socialLinks":[
         {
@@ -25,7 +25,7 @@ let resumeData = {
       ],
     "aboutme":"Senior designer (product design, automotive, aeronautic), I'm learnig Web development at : Wild Code School (Marseille).",
     "address":"Bouches-du-Rhône",
-    "website":"https://www.coroflot.com/baveux",
+    "website":"olivierbaveux@hotmail.com",
     "education":[
       {
         "UniversityName":"Wild Code School (Marseille)",
@@ -56,6 +56,13 @@ let resumeData = {
         "MonthOfLeaving":"",
         "YearOfLeaving":"2008-2011",
         "Achievements":"Automotive customers"
+      },
+      {
+        "CompanyName":"Freelance Designer",
+        "specialization":"Design product, graphics",
+        "MonthOfLeaving":"",
+        "YearOfLeaving":"2006-2008",
+        "Achievements":""
       }
     ],
     "skillsDescription":"",
@@ -65,6 +72,9 @@ let resumeData = {
       },
       {
         "skillname":"CSS"
+      },
+      {
+        "skillname":"Javascript"
       },
       {
         "skillname":"Reactjs"
