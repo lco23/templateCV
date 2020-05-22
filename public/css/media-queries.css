@@ -257,8 +257,8 @@
    #portfolio-wrapper .columns { margin-bottom: 40px; }
    .popup-modal {	max-width: 85%; }
    .description-box {
-      width: 20rem;
-      margin-left: 8rem;
+   
+      margin: auto;
    }
    #titlePortfolio{
       font: 11px/18px 'opensans-italic', sans-serif;
