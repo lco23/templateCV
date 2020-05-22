@@ -112,7 +112,7 @@
 	   width: 48px;
 		height: 48px;
 		text-align: left;
-		background-color: #CC5200;
+		background-color: #00CCCC;
 		position: relative;
       border: none;
       float: right;
@@ -256,7 +256,31 @@
    /* ----------------------------------------------------------------- */
    #portfolio-wrapper .columns { margin-bottom: 40px; }
    .popup-modal {	max-width: 85%; }
-
+   .description-box {
+      width: 20rem;
+      margin-left: 8rem;
+   }
+   #titlePortfolio{
+      font: 11px/18px 'opensans-italic', sans-serif;
+      color: #11ABB0;
+      margin-left: 7rem;
+   }
+   .portfolio-item .item-wrap img {
+      vertical-align: bottom;
+      margin-left: 8rem;
+   }
+   .portfolio-item .portfolio-item-meta h5 {
+      font: 14px/21px 'opensans-bold', sans-serif;
+      color: rgb(179, 179, 179);
+      margin-left: 8rem;
+   }
+   .portfolio-item .portfolio-item-meta p {
+      font: 12px/18px 'opensans-light', sans-serif;
+      color: #2a2a2a;
+      margin-bottom: 0;
+      margin-left: 8rem;
+   }
+   
 
    /* Testimonials Section
    ----------------------------------------------------------------------- */
@@ -284,6 +308,15 @@
 
    /* contact Section
    ----------------------------------------------------------------------- */
+   .tenColumns {
+      width: 30rem;
+      margin: 5px auto;
+   }
+
+   #contact {
+      padding-left: 0rem;
+   }
+
    #contact { padding-bottom: 66px; }
    #contact .section-head { margin-bottom: 12px; }
    #contact .section-head h1 {

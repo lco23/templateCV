@@ -1,64 +1,64 @@
 let resumeData = {
     "imagebaseurl":"https://rbhatia46.github.io/",
-    "name": "Hamdada Yacine",
-    "role": "React and Node trainer at the Wild Code School",
-    "linkedinId":"Your LinkedIn Id",
-    "skypeid": "Your skypeid",
-    "roleDescription": "I like to learn about new technologies, to share my knowledge and surfing in my free time",
-    "blockchain" :"Blockchain enthusiaste",
+    "name": "Olivier Baveux",
+    "role": "Designer / Developer",
+    "linkedinId":"https://www.linkedin.com/in/olivierbaveux/",
+    //"skypeid": "Your skypeid",
+    "roleDescription": "Senior Industrial Designer, with a new orientation in web development",
+    //"blockchain" :"Blockchain enthusiaste",
     "socialLinks":[
         {
           "name":"linkedin",
-          "url":"https://www.linkedin.com/in/rahul-bhatia-67ba08121/",
+          "url":"https://www.linkedin.com/in/olivierbaveux/",
           "className":"fa fa-linkedin"
         },
         {
           "name":"github",
-          "url":"http://github.com/rbhatia46",
+          "url":"https://github.com/lco23/",
           "className":"fa fa-github"
         },
-        {
-          "name":"skype",
-          "url":"http://twitter.com/rbhatia46",
-          "className":"fa fa-twitter"
-        }
+     //   {
+     //     "name":"skype",
+     //     "url":"http://twitter.com/rbhatia46",
+     //     "className":"fa fa-twitter"
+     //   }
       ],
-    "aboutme":"I am currently a pre-final year student at The LNM Institute of Information Technology and pursuing my B.Tech from here. I am a self taught Full Stack Web Developer, currently diving deeper into Machine Learning. I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
-    "address":"India",
-    "website":"https://rbhatia46.github.io",
+    "aboutme":"Senior designer (product design, automotive, aeronautic), I'm learnig Web development at : Wild Code School (Marseille).",
+    "address":"Bouches-du-Rhône",
+    "website":"https://www.coroflot.com/baveux",
     "education":[
       {
-        "UniversityName":"The LNM Insitute of Information Technology",
-        "specialization":"Some specialization",
-        "MonthOfPassing":"Aug",
+        "UniversityName":"Wild Code School (Marseille)",
+        "specialization":"Javascript, React",
+        "MonthOfPassing":"Jul",
         "YearOfPassing":"2020",
-        "Achievements":"Some Achievements"
+        "Achievements":""
       },
       {
-        "UniversityName":"Some University",
-        "specialization":"Some specialization",
-        "MonthOfPassing":"Jan",
-        "YearOfPassing":"2018",
-        "Achievements":"Some Achievements"
+        "UniversityName":"Creapole (Paris)",
+        "specialization":"Industrial Design",
+        "MonthOfPassing":"May",
+        "YearOfPassing":"2006",
+        "Achievements":"Master"
       }
     ],
     "work":[
       {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
-        "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
+        "CompanyName":"Expleo",
+        "specialization":"Industrial and graphic Designer for the aeronautics industry",
+        "MonthOfLeaving":"",
+        "YearOfLeaving":"2011-today",
+        "Achievements":"VIP cabins, cockpit HIM..."
       },
       {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
-        "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
+        "CompanyName":"Dassault Systemes",
+        "specialization":"3D rendering. Software : 3D Excite",
+        "MonthOfLeaving":"",
+        "YearOfLeaving":"2008-2011",
+        "Achievements":"Automotive customers"
       }
     ],
-    "skillsDescription":"Your skills here",
+    "skillsDescription":"",
     "skills":[
       {
         "skillname":"HTML5"
@@ -68,28 +68,42 @@ let resumeData = {
       },
       {
         "skillname":"Reactjs"
+      },
+      {
+        "skillname":"Photoshop"
+      },
+      {
+        "skillname":"Illustrator"
       }
     ],
     "portfolio":[
       {
-        "name":"project1",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
+        "title":"Dev",
+        "name":"Food my mood",
+        "description":"React + API",
+        "imgurl":"images/portfolio/foodmymood.png",
+        "url":"https://keen-almeida-da47df.netlify.app/"
       },
       {
-        "name":"project2",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/project.jpg"
+        "title":"Dev",
+        "name":"Hackathon",
+        "description":"Obligation to use a webcam API to create an App",
+        "imgurl":"images/portfolio/covid.png",
+        "url":"https://goofy-jones-6004d7.netlify.app/"
       },
-      {
-        "name":"project3",
-        "description":"mobileapp",  
-        "imgurl":"images/portfolio/project2.png"
+      { 
+        "title":"Design",
+        "name":"Portfolio",
+        "description":"My design portfolio",  
+        "imgurl":"images/portfolio/site.png",
+        "url":"https://www.coroflot.com/baveux/portfolio"
       },
-      {
-        "name":"project4",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
+      { 
+        "title":"Design",
+        "name":"Video",
+        "description":"Some projects",
+        "imgurl":"images/portfolio/video.png",
+        "url":"https://www.youtube.com/watch?v=bdxRN9oGWwg"
       }
     ],
     "testimonials":[
